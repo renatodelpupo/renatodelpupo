@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Working with web since 2012, today is a front end developer at Valtech, mainly with JavaScript-based development, focused in SPA frameworks like Vue.
+Working with the web since 2012, today I'm a front-end engineer, mainly with JavaScript-based development, focused on reactive frameworks like Vue and React.
 
-Majored in Design at Espirito Santo Federal University (UFES, 2017), graduated with research of website design and development, exploring processes and discussing responsive web design, benchmarking, progressive enhancement, digital marketing, interaction design, user experience, and content management systems.
+Majored at Espirito Santo Federal University (UFES, 2017), I graduated with research in website design and development, exploring processes and discussing responsive web design, benchmarking, progressive enhancement, digital marketing, interaction design, user experience, and content management systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatodelpupo/)](https://www.linkedin.com/in/renatodelpupo/)
 
