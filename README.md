@@ -7,5 +7,5 @@ Majored at Espirito Santo Federal University (UFES, 2017), I graduated with rese
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatodelpupo/)](https://www.linkedin.com/in/renatodelpupo/)
 
 <a href="https://github.com/renatodelpupo">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodelpupo&layout=compact&langs_count=6" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodelpupo&layout=compact&langs_count=6&theme=github_dark_dimmed" />
 </a>
